@@ -1,4 +1,3 @@
-[Desktop Entry]
 Name=findsploit
 Encoding=UTF-8
 Exec=/usr/share/kali-menu/exec-in-shell "sudo findsploit"
